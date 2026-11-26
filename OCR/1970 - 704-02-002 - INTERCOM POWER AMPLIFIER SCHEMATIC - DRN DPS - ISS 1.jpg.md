@@ -36,7 +36,7 @@ Wiki page: [M704](../../../../PAGES/M704.md)
 - **Words (OCR):** 15 in 15 lines: 08 · 80 · Mat ? · L46t · OuIPUT · CKN # · ONLY · CKiE · MERD · NFUT · LID · ENE
 - **Wiring (first pass):** 93 connected wire groups from 573 runs, 3 dotted junctions; labelled ends: 122 mm → CHRDI; 73 mm → 80; 66 mm → OuIPUT; 38 mm → MERD; 29 mm → CKiE, MERD
 
-Every curve, box, word and wire group: [1970 - 704-02-002 - INTERCOM POWER AMPLIFIER SCHEMATIC - DRN DPS - ISS 1 (traced).json](../SCHEMATICS/1970%20-%20704-02-002%20-%20INTERCOM%20POWER%20AMPLIFIER%20SCHEMATIC%20-%20DRN%20DPS%20-%20ISS%201%20(traced).json) (the CAD file: `1970 - 704-02-002 - INTERCOM POWER AMPLIFIER SCHEMATIC - DRN DPS - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1970 - 704-02-002 - INTERCOM POWER AMPLIFIER SCHEMATIC - DRN DPS - ISS 1 (traced).json](../SCHEMATICS/1970%20-%20704-02-002%20-%20INTERCOM%20POWER%20AMPLIFIER%20SCHEMATIC%20-%20DRN%20DPS%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1970 - 704-02-002 - INTERCOM POWER AMPLIFIER SCHEMATIC - DRN DPS - ISS 1 (traced).dxf`).
 
 ## Full text
 

@@ -35,7 +35,7 @@ Wiki page: [M704](../../../../PAGES/M704.md)
 - **Words (OCR):** 15 in 13 lines: VALue= · 040 · 4je4 · OutpLT · CKNB OnCY · CKm · CFJn · Md · LID: · (DATE 0 Lut · 70+ · BCAEMATIE
 - **Wiring (first pass):** 87 connected wire groups from 476 runs; labelled ends: 228 mm → LID:; 46 mm → LID:, Md; 44 mm → Md; 23 mm → OutpLT
 
-Every curve, box, word and wire group: [1970 - 704-02-001 - M 704 INTERCOM PRE-AMPLIFIER SCHEMATIC - DRN DPS - ISS 1 (traced).json](../SCHEMATICS/1970%20-%20704-02-001%20-%20M%20704%20INTERCOM%20PRE-AMPLIFIER%20SCHEMATIC%20-%20DRN%20DPS%20-%20ISS%201%20(traced).json) (the CAD file: `1970 - 704-02-001 - M 704 INTERCOM PRE-AMPLIFIER SCHEMATIC - DRN DPS - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1970 - 704-02-001 - M 704 INTERCOM PRE-AMPLIFIER SCHEMATIC - DRN DPS - ISS 1 (traced).json](../SCHEMATICS/1970%20-%20704-02-001%20-%20M%20704%20INTERCOM%20PRE-AMPLIFIER%20SCHEMATIC%20-%20DRN%20DPS%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1970 - 704-02-001 - M 704 INTERCOM PRE-AMPLIFIER SCHEMATIC - DRN DPS - ISS 1 (traced).dxf`).
 
 ## Full text
 
