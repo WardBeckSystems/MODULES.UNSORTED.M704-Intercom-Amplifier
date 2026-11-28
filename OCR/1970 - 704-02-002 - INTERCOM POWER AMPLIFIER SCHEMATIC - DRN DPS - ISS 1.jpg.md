@@ -1,5 +1,5 @@
 # 1970 - 704-02-002 - INTERCOM POWER AMPLIFIER SCHEMATIC - DRN DPS - ISS 1.jpg
-Wiki page: [M704](../../../../PAGES/M704.md)
+Wiki page: [M704](../)
 
 
 - **Year:** 1970 (title block date)

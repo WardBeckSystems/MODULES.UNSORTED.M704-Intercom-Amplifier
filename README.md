@@ -1,6 +1,6 @@
 # M704 Intercom Amplifier · Communication
 
-Ward-Beck Systems M704, 1970|3. Wiki page: [M704 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M704.html)
+Ward-Beck Systems M704, 1970|3. Wiki page: [M704 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.COMMUNICATION.M704-Intercom-Amplifier/)
 
 | Folder | What is in it | Files |
 |---|---|---|
